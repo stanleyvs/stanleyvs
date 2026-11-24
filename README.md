@@ -39,7 +39,7 @@
 
 | Projeto | O que é | Ver no ar |
 |---|---|---|
-| [**Ad Fontes**](https://github.com/stanleyvs/biblia-app) | Software gratuito de estudo bíblico para pastores e seminaristas: grego e hebraico com Strong, leitura paralela e comentários. Funciona offline (PWA). React, Vite e Supabase. *Em desenvolvimento.* | [biblia-app-tau-six.vercel.app](https://biblia-app-tau-six.vercel.app) |
+| [**Ad Fontes**](https://github.com/stanleyvs/biblia-app) | Software gratuito de estudo bíblico para pastores e seminaristas: grego e hebraico com Strong, leitura paralela e comentários. Funciona offline (PWA). React, Vite e Supabase. *Em desenvolvimento.* | [adfontes-biblia.vercel.app](https://adfontes-biblia.vercel.app) |
 | [**Eduarda Nunes · Storymaker**](https://github.com/stanleyvs/landing-page-eduarda-nunes) | Landing page e formulário de briefing para uma storymaker de casamentos e eventos. HTML, CSS e JavaScript. | [eduardanunesstorymaker.com.br](https://eduardanunesstorymaker.com.br) |
 | [**Portfólio**](https://github.com/stanleyvs/portfolio) | Meu portfólio de serviços e projetos | [ostanleydev.vercel.app](https://ostanleydev.vercel.app) |
 
